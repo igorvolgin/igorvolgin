@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @igorvolgin
 - 👀 I’m interested in programming, travelling, music
-- 🌱 I’m currently learning laravel + angular
+- 🌱 Doing laravel + angular or VueJS
 - 📫 Tg: https://t.me/igorvolgin
 
